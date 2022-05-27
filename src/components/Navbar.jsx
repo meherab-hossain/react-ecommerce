@@ -64,7 +64,7 @@ const Navbar = () => {
           <Logo>Meherab</Logo>
         </Center>
         <Right>
-          <MenuItem>Registr</MenuItem>
+          <MenuItem>Register</MenuItem>
           <MenuItem>Sign In</MenuItem>
           <MenuItem>
             <Badge badgeContent={4} color="primary">
